@@ -10,7 +10,7 @@ A simple weather dashboard that allows users to search for weather forecasts by 
 - Saves search history for easy access to previously searched cities
 
 ## Usage
-1. go to this website : 
+1. go to this website : https://dtran1208.github.io/Weather-Dashboard/
 2. Enter a city name in the search input and click the "Search" button.
 3. The current weather conditions and 5-day forecast for the specified city will be displayed.
 4. To view the weather information for a previously searched city, click on the city name in the search history.
